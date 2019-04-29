@@ -3,6 +3,10 @@ Removes line breaks and indentations of a CSS or HTML file into a single line of
 with the purpose to make your program to run faster.
 
 See 'myOriginalFile.html' and 'myCompressedFile.html' to view code compressing results.
+'myOriginalFile.html' is 105 lines of code, whth a size of 2,162 bytes. 
+After it gets compressed 'myCompressedFile.html' it gets a size of 1,912 bytes.
+105 lines of code is a small program, but as your code gets larger, you'll notice
+the difference in size of bytes that makes a big difference when your html code loads.
 
 compressFilter1.py must be built first.
 
