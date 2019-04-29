@@ -2,6 +2,8 @@
 Removes line breaks and indentations of a CSS or HTML file into a single line of code
 with the purpose to make your program to run faster.
 
+See 'myOriginalFile.html' and 'myCompressedFile.html' to view code compressing results.
+
 compressFilter1.py must be built first.
 
 compressFilter2.py must be built second.
